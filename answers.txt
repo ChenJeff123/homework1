@@ -1,0 +1,5 @@
+What is a remote repository?
+
+It is typically a shared codebase stored on a remote server. 
+Its main purpose is to allow for many people to collaborate with the code.
+People can clone the contents, make changes, and push changes to it.
